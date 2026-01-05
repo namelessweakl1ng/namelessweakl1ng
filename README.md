@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Manjunatha 👋
 
-<!--
-**namelessweakl1ng/namelessweakl1ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring software engineer focused on building strong fundamentals in
+data structures and algorithms through consistent practice and projects.
 
-Here are some ideas to get you started:
+## 🧠 Interests
+- Data Structures & Algorithms
+- Problem Solving
+- Systems & Linux
+- Backend Development (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- Languages: C++, Python, Java
+- Web: HTML, CSS
+- Tools: Git, GitHub, Linux
+- Concepts: DSA, OOP, Basic System Design
+
+## 📌 What I'm Working On
+- Solving DSA problems on LeetCode consistently
+- Strengthening core CS fundamentals
+- Exploring Linux environments and developer tooling
+
+## 🎯 Goals
+- Write clean, efficient, and maintainable code
+- Build meaningful personal projects
+- Prepare for software engineering internships/roles
+
+## 🔗 Profiles
+- LeetCode: https://leetcode.com/u/namelessweakling/
+- GitHub: https://github.com/<your-username>
+- LinkedIn: https://linkedin.com/in/<your-link>
+
+📍 India

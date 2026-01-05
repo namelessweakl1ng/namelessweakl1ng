@@ -1,4 +1,4 @@
-# Hi, I'm Manjunatha 👋
+# Hi, I'm Manjunatha P 👋
 
 Aspiring software engineer focused on building strong fundamentals in
 data structures and algorithms through consistent practice and projects.

@@ -29,5 +29,6 @@ data structures and algorithms through consistent practice and projects.
 - LeetCode: https://leetcode.com/u/namelessweakling/
 - GitHub: https://github.com/<your-username>
 - LinkedIn: https://linkedin.com/in/<your-link>
+- Portfolio: https://manjunathap.netlify.app/
 
 📍 India

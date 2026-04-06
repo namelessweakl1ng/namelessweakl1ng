@@ -1,6 +1,21 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Manjunatha P</h1>
 <p align="center">
   Backend Developer | Cybersecurity Enthusiast | Systems Explorer
+</p>
+
+<p align="center">
+  <img src="./assets/animations/hero-terminal.svg" alt="Animated terminal banner" width="100%" />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Backend+Developer;Cybersecurity+Enthusiast;Systems+Explorer;Learning+by+building+and+breaking+things"
+    alt="Typing animation"
+  />
 </p>
 
 <p align="center">
@@ -117,6 +132,10 @@ All of the logos below are stored locally in this repo so the profile stays clea
   Consistent DSA practice and problem-solving through LeetCode.
 </p>
 
+<p align="center">
+  <img src="./assets/animations/cyber-divider.svg" alt="Animated cyber divider" width="100%" />
+</p>
+
 ## Cybersecurity & Systems
 
 - Wireshark, tcpdump, Nmap, SIEM workflows, and log analysis
@@ -128,3 +147,7 @@ All of the logos below are stored locally in this repo so the profile stays clea
 - GitHub: [namelessweakl1ng](https://github.com/namelessweakl1ng)
 - LeetCode: [namelessweakling](https://leetcode.com/u/namelessweakling/)
 - Portfolio: [manjunathap.vercel.app](https://manjunathap.vercel.app/)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider" width="100%" />
+</p>

@@ -1,153 +1,208 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider" width="100%" />
-</p>
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:0891b2,100:22d3ee&section=header"
+    alt="Header banner"
+  />
+</div>
 
-<h1 align="center">Hi, I'm Manjunatha P</h1>
-<p align="center">
-  Backend Developer | Cybersecurity Enthusiast | Systems Explorer
-</p>
+<h1 align="center">
+  Hi, I'm Manjunatha P
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34" alt="Waving hand" />
+</h1>
 
 <p align="center">
-  <img src="./assets/animations/hero-terminal.svg" alt="Animated terminal banner" width="100%" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Developer;Cybersecurity+Enthusiast;Systems+Explorer;DSA+and+Problem+Solving+Learner;Always+learning+new+things"
+      alt="Typing animation"
+    />
+  </a>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=820&lines=Backend+Developer;Cybersecurity+Enthusiast;Systems+Explorer;Learning+by+building+and+breaking+things"
-    alt="Typing animation"
+    src="https://komarev.com/ghpvc/?username=namelessweakl1ng&label=Profile%20views&color=0ea5e9&style=for-the-badge"
+    alt="Profile views"
   />
-</p>
-
-<p align="center">
-  I enjoy building backend systems, understanding how infrastructure behaves, and sharpening my
-  problem-solving through security practice and hands-on debugging.
+  <a href="https://github.com/namelessweakl1ng?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/namelessweakl1ng?style=for-the-badge&logo=github&label=Followers&color=111827"
+      alt="GitHub followers"
+    />
+  </a>
+  <a href="https://leetcode.com/u/namelessweakling/">
+    <img
+      src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="LeetCode profile"
+    />
+  </a>
 </p>
 
 ## About Me
 
-- Backend-focused developer with a strong interest in Java, Python, and systems thinking
-- Curious about cybersecurity, networking, traffic analysis, and defensive security workflows
-- Comfortable with DSA, OOP, debugging, and learning by breaking things carefully
-- Based in Mysuru, India
+<img
+  align="right"
+  width="260"
+  alt="Coding animation"
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+/>
 
-## Languages & Technologies
+- Backend-focused developer with a strong interest in Java, Python, and systems thinking.
+- Passionate about cybersecurity, networking, and understanding how systems behave under the hood.
+- I enjoy DSA, OOP, debugging, and learning by building and breaking things carefully.
+- Based in Mysuru, India.
+- Solving problems consistently on [LeetCode](https://leetcode.com/u/namelessweakling/).
+- Exploring backend engineering, security fundamentals, and developer tooling.
+- Portfolio: [manjunathap.vercel.app](https://manjunathap.vercel.app/)
 
-All of the logos below are stored locally in this repo so the profile stays clean and stable on GitHub.
+<br clear="right"/>
 
-### Programming Languages
-
-<p align="center">
-  <img src="./assets/logos/languages/bash.svg" alt="Bash" title="Bash" height="42" />
-  <img src="./assets/logos/languages/c.svg" alt="C" title="C" height="42" />
-  <img src="./assets/logos/languages/cpp.svg" alt="C++" title="C++" height="42" />
-  <img src="./assets/logos/languages/csharp.svg" alt="C#" title="C#" height="42" />
-  <img src="./assets/logos/languages/dart.svg" alt="Dart" title="Dart" height="42" />
-  <img src="./assets/logos/languages/go.svg" alt="Go" title="Go" height="42" />
-  <img src="./assets/logos/languages/java.svg" alt="Java" title="Java" height="42" />
-  <img src="./assets/logos/languages/javascript.svg" alt="JavaScript" title="JavaScript" height="42" />
-  <img src="./assets/logos/languages/kotlin.svg" alt="Kotlin" title="Kotlin" height="42" />
-  <img src="./assets/logos/languages/php.png" alt="PHP" title="PHP" height="42" />
-  <img src="./assets/logos/languages/python.svg" alt="Python" title="Python" height="42" />
-  <img src="./assets/logos/languages/ruby.svg" alt="Ruby" title="Ruby" height="42" />
-  <img src="./assets/logos/languages/rust.svg" alt="Rust" title="Rust" height="42" />
-  <img src="./assets/logos/languages/typescript.svg" alt="TypeScript" title="TypeScript" height="42" />
-</p>
-
-### Frontend & Frameworks
+## Problem Solving
 
 <p align="center">
-  <img src="./assets/logos/frontend/html.svg" alt="HTML" title="HTML" height="42" />
-  <img src="./assets/logos/frontend/css.svg" alt="CSS" title="CSS" height="42" />
-  <img src="./assets/logos/frontend/angular.svg" alt="Angular" title="Angular" height="42" />
-  <img src="./assets/logos/frontend/react.svg" alt="React" title="React" height="42" />
-  <img src="./assets/logos/frontend/redux.svg" alt="Redux" title="Redux" height="42" />
-  <img src="./assets/logos/frontend/vue.svg" alt="Vue" title="Vue" height="42" />
-  <img src="./assets/logos/frontend/jquery.svg" alt="jQuery" title="jQuery" height="42" />
-  <img src="./assets/logos/frontend/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="42" />
-  <img src="./assets/logos/frontend/materialize.svg" alt="Materialize" title="Materialize" height="42" />
-</p>
-
-### Backend & Databases
-
-<p align="center">
-  <img src="./assets/logos/backend/nodejs.svg" alt="Node.js" title="Node.js" height="42" />
-  <img src="./assets/logos/backend/django.svg" alt="Django" title="Django" height="42" />
-  <img src="./assets/logos/backend/flask.svg" alt="Flask" title="Flask" height="42" />
-  <img src="./assets/logos/backend/spring.svg" alt="Spring" title="Spring" height="42" />
-  <img src="./assets/logos/backend/laravel.svg" alt="Laravel" title="Laravel" height="42" />
-  <img src="./assets/logos/backend/rails.svg" alt="Rails" title="Rails" height="42" />
-  <img src="./assets/logos/backend/codeigniter.svg" alt="CodeIgniter" title="CodeIgniter" height="42" />
-  <img src="./assets/logos/backend/deno.svg" alt="Deno" title="Deno" height="42" />
-  <img src="./assets/logos/databases/mongodb.svg" alt="MongoDB" title="MongoDB" height="42" />
-  <img src="./assets/logos/databases/mysql.svg" alt="MySQL" title="MySQL" height="42" />
-  <img src="./assets/logos/databases/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" height="42" />
-  <img src="./assets/logos/databases/redis.svg" alt="Redis" title="Redis" height="42" />
-  <img src="./assets/logos/databases/cassandra.svg" alt="Cassandra" title="Cassandra" height="42" />
-  <img src="./assets/logos/databases/oracle.svg" alt="Oracle" title="Oracle" height="42" />
-</p>
-
-### Cloud & Dev Tools
-
-<p align="center">
-  <img src="./assets/logos/tools/git.svg" alt="Git" title="Git" height="42" />
-  <img src="./assets/logos/tools/github.svg" alt="GitHub" title="GitHub" height="42" />
-  <img src="./assets/logos/tools/gitlab.svg" alt="GitLab" title="GitLab" height="42" />
-  <img src="./assets/logos/tools/docker.svg" alt="Docker" title="Docker" height="42" />
-  <img src="./assets/logos/tools/terraform.png" alt="Terraform" title="Terraform" height="42" />
-  <img src="./assets/logos/tools/ansible.svg" alt="Ansible" title="Ansible" height="42" />
-  <img src="./assets/logos/tools/aws.svg" alt="AWS" title="AWS" height="42" />
-  <img src="./assets/logos/tools/azure.svg" alt="Azure" title="Azure" height="42" />
-  <img src="./assets/logos/tools/gcloud.svg" alt="Google Cloud" title="Google Cloud" height="42" />
-  <img src="./assets/logos/tools/firebase.svg" alt="Firebase" title="Firebase" height="42" />
-  <img src="./assets/logos/tools/npm.svg" alt="npm" title="npm" height="42" />
-  <img src="./assets/logos/tools/linux.svg" alt="Linux" title="Linux" height="42" />
-</p>
-
-### Editors & IDEs
-
-<p align="center">
-  <img src="./assets/logos/ides/vscode.svg" alt="VS Code" title="VS Code" height="42" />
-  <img src="./assets/logos/ides/intellij.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="42" />
-  <img src="./assets/logos/ides/pycharm.svg" alt="PyCharm" title="PyCharm" height="42" />
-  <img src="./assets/logos/ides/phpstorm.svg" alt="PhpStorm" title="PhpStorm" height="42" />
-  <img src="./assets/logos/ides/android-studio.svg" alt="Android Studio" title="Android Studio" height="42" />
-  <img src="./assets/logos/ides/datagrip.svg" alt="DataGrip" title="DataGrip" height="42" />
-  <img src="./assets/logos/ides/goland.png" alt="GoLand" title="GoLand" height="42" />
-  <img src="./assets/logos/ides/clion.png" alt="CLion" title="CLion" height="42" />
-  <img src="./assets/logos/ides/rider.png" alt="Rider" title="Rider" height="42" />
-  <img src="./assets/logos/ides/rubymine.png" alt="RubyMine" title="RubyMine" height="42" />
-  <img src="./assets/logos/ides/eclipse.svg" alt="Eclipse" title="Eclipse" height="42" />
-  <img src="./assets/logos/ides/sublime-text.svg" alt="Sublime Text" title="Sublime Text" height="42" />
-  <img src="./assets/logos/ides/atom.svg" alt="Atom" title="Atom" height="42" />
-  <img src="./assets/logos/ides/notepad-plus-plus.png" alt="Notepad++" title="Notepad++" height="42" />
-</p>
-
-## LeetCode
-
-<p align="center">
-  <img src="./assets/leetcode-badge.png" alt="LeetCode badge" width="270" />
+  <a href="https://leetcode.com/u/namelessweakling/">
+    <img src="./assets/leetcode-badge.png" alt="LeetCode badge" width="250" />
+  </a>
 </p>
 
 <p align="center">
-  Consistent DSA practice and problem-solving through LeetCode.
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-0f172a?style=for-the-badge" alt="DSA" />
+  <img src="https://img.shields.io/badge/LeetCode-Daily%20Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Daily Practice" />
+  <img src="https://img.shields.io/badge/OOP-Strong%20Foundation-0891b2?style=for-the-badge" alt="OOP" />
 </p>
 
+## Tech Stack
+
+### Languages
+
 <p align="center">
-  <img src="./assets/animations/cyber-divider.svg" alt="Animated cyber divider" width="100%" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+</p>
+
+### Backend, Frontend & Frameworks
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### Databases
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Cassandra" />
+</p>
+
+### Cloud, Tools & IDEs
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" alt="DataGrip" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse" />
 </p>
 
 ## Cybersecurity & Systems
 
-- Wireshark, tcpdump, Nmap, SIEM workflows, and log analysis
-- Interested in Linux, networking, threat detection, and backend security fundamentals
-- I like learning through hands-on experimentation, debugging, and careful system exploration
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-0f172a?style=for-the-badge" alt="Nmap" />
+  <img src="https://img.shields.io/badge/tcpdump-1e293b?style=for-the-badge" alt="tcpdump" />
+  <img src="https://img.shields.io/badge/SIEM-0891b2?style=for-the-badge" alt="SIEM" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Traffic%20Analysis-0f766e?style=for-the-badge" alt="Traffic Analysis" />
+  <img src="https://img.shields.io/badge/Log%20Analysis-155e75?style=for-the-badge" alt="Log Analysis" />
+</p>
 
-## Connect
+- Interested in Linux, networking, threat detection, and practical security learning.
+- I enjoy exploring how systems fail, how traffic behaves, and how services can be hardened.
+- Backend engineering and security go together for me, so I like understanding both the code and the environment around it.
 
-- GitHub: [namelessweakl1ng](https://github.com/namelessweakl1ng)
-- LeetCode: [namelessweakling](https://leetcode.com/u/namelessweakling/)
-- Portfolio: [manjunathap.vercel.app](https://manjunathap.vercel.app/)
+## GitHub Stats
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider" width="100%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=namelessweakl1ng&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="170"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=namelessweakl1ng&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Top languages"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=namelessweakl1ng&theme=tokyonight&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=namelessweakl1ng&theme=tokyo-night&hide_border=true"
+    alt="Activity graph"
+  />
+</p>
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://github.com/namelessweakl1ng">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/namelessweakling/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://manjunathap.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:22d3ee,50:0891b2,100:0f172a&section=footer"
+    alt="Footer banner"
+  />
+</div>

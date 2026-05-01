@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/namelessweakling/">
-    <img src="./assets/leetcode-badge.png" alt="LeetCode badge" width="250" />
+    <img src="./assets/100days.png" alt="LeetCode badge" width="250" />
   </a>
 </p>
 

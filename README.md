@@ -61,10 +61,8 @@
 ## Problem Solving
 
 <p align="center">
-  <a href="https://leetcode.com/u/namelessweakling/">
-    <img src="https://leetcode-badge.vercel.app/api?username=namelessweakling&theme=dark" alt="LeetCode Stats" width="250" />
-  </a>
-</p>   
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=namelessweakling&theme=dark" alt="LeetCode Badges" />
+</p>  
 
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Problem%20Solving-0f172a?style=for-the-badge" alt="DSA" />

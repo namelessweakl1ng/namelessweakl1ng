@@ -61,7 +61,7 @@
 ## Problem Solving
 
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=namelessweakling&theme=dark" alt="LeetCode Badges" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=namelessweakl1ng&theme=dark" alt="LeetCode Badges" />
 </p>  
 
 <p align="center">

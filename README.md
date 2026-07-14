@@ -62,9 +62,9 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/namelessweakling/">
-    <img src="![GitHub Days Active](https://img.shields.io/badge/days_active-100-green?style=for-the-badge&logo=github)" alt="LeetCode badge" width="250" />
+    <img src="https://leetcode-badge.vercel.app/api?username=namelessweakling&theme=dark" alt="LeetCode Stats" width="250" />
   </a>
-</p>
+</p>   
 
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Problem%20Solving-0f172a?style=for-the-badge" alt="DSA" />

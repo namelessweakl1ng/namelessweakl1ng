@@ -61,8 +61,10 @@
 ## Problem Solving
 
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=namelessweakl1ng&theme=dark" alt="LeetCode Badges" />
-</p>  
+  <a href="https://leetcode.com/u/namelessweakling/">
+    <img src="https://raw.githubusercontent.com/ChinemeremChigbo/LeetCode-Badges/main/Media/Badges/Annual-Medals/PNG/2026-100-lg.png" alt="100 Days Badge" width="250" />
+  </a>
+</p> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Problem%20Solving-0f172a?style=for-the-badge" alt="DSA" />
